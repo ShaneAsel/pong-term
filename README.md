@@ -1,6 +1,6 @@
 # Terminal Pong (Go)
 
-This is a small **intro to Go** project I built to get familiar with the language — and to make a fun little terminal game for my son to play.
+This is a simple **intro to Go** project I built to get familiar with the language and to make a fun little terminal game for my son.
 
 It's a basic implementation of **Pong**, playable entirely in the terminal using the arrow keys.
 
